@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Raga Varshini 👋
 
-<!--
-**rvarshini004-del/rvarshini004-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 EEE Graduate from Anna University.
+- 🌱 Interested in Electronics, IoT and Embedded Systems.
+- 💻 Currently learning new technical skills.
+- 🚀 Aspiring to build my career in the engineering field.
 
-Here are some ideas to get you started:
+### Academic Projects
+**1. Google Assistant Controlled LED Lamp using ESP32**
+- Voice-controlled LED switching using ESP32 and Google Assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**2. State Monitoring of Overhead Transmission Lines Using IoT**
+- IoT-based monitoring system using ESP32 and multiple sensors.
+
+### Skills
+- MS Office
+- AutoCAD
+- CATIA
+- Basic Electronics
+
+### Goals
+To improve my technical knowledge and develop practical engineering skills.
