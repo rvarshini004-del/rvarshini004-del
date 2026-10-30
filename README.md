@@ -17,6 +17,8 @@
 - MS Office
 - AutoCAD
 - CATIA
+- MATLAB
+- Simulink
 - Basic Electronics
 
 ### Goals
