@@ -1,4 +1,4 @@
-# Hi, I'm Raga Varshini 👋
+# Raga Varshini 👋
 
 ### About Me
 - 🎓 EEE Graduate from Anna University.
