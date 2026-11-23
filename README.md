@@ -20,6 +20,8 @@
 - MATLAB
 - Simulink
 - Basic Electronics
+- Wiring Harness
+  
 
 ### Goals
 To improve my technical knowledge and develop practical engineering skills.
